@@ -1,4 +1,4 @@
-# We will work now on 60 m S2A resolution images, so we will have more bandwidths to deal with and we can elaborate a more detailed spectrum.
+# We will work now on 60 m resolution images, so we will have more bandwidths to deal with and we can elaborate a more detailed spectrum. Same dataset as for 10m.
 
 #### SETUP #####
 setwd("C:/Rio Tinto program/60m script")
@@ -99,9 +99,12 @@ rt23_60_interest <- crop(rt23_60_masked_SR,ext2)
 # reflects other deeper SWIR frequencies.
 par(mfrow = c(1, 3))
 SWIRbands_60 <- c(8,10,11) # this is needed because plot function is stupid and needs a pre-defined array to take the position of elements.
-plot(rt23_60_interest[[SWIRbands_60]], 
+for(i in SWIRbands_60) {
+  plot(rt23_60_interest[[i]],
+     main = paste(spectrum_cover[[i]]),
      col=IR_c)
-dev.off() 
+}
+dev.off()
 plotRGB(rt23_60_interest,11,10,8,stretch="lin") 
 dev.off()
 
