@@ -4,5 +4,7 @@ In this repository I will share with you my codes for IAPS institute in Rome. Pa
 Work is in progress, so I will probably update files as I go further into studying and tinkering the techniques. I am learning R, and these should act as checkpoints of my work.
 All of the work in this repository is stored to be a recap of my thesis workflow. It's mainly a reference for me, to control my steps and gradually improve.
 
+All the code is usually presented by a .pdf I upload in this repository. Please, find the right .pdf and let it guide you through the code for better comprehension.
+
 Thanks for your understanding.
 Jack.
