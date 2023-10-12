@@ -1,4 +1,5 @@
 # We will work now on 60 m resolution images, so we will have more bandwidths to deal with and we can elaborate a more detailed spectrum. Same dataset as for 10m.
+# Beware, I created a new folder inside my main folder where I included all _60m resolution images. So it is a new directory dedicated for 60m images elaboration.
 
 #### SETUP #####
 setwd("C:/Rio Tinto program/60m script")
