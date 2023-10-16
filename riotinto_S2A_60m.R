@@ -1,5 +1,4 @@
-# We will work now on 60 m resolution images, so we will have more bandwidths to deal with and we can elaborate a more detailed spectrum. Same dataset as for 10m.
-# Beware, I created a new folder inside my main folder where I included all _60m resolution images. So it is a new directory dedicated for 60m images elaboration.
+# We will work now on 60 m resolution images, so we will have more bandwidths to deal with and we can elaborate a more detailed spectrum.
 
 #### SETUP #####
 setwd("C:/Rio Tinto program/60m script")
@@ -46,6 +45,8 @@ rt23_60 <- crop(rt23_60,ext)
 plotRGB(rt23_60,4,3,2,stretch="lin") # the crop is good enough. We have to stay small, otherwise my pc explodes.
 ext_rt23_60 <- extent(rt23_60)
 ext_rt23_60
+rt23_60
+writeRaster(rt23_60,'C:/Rio Tinto program/60m script/img.envi')
 
 ###### DATA CLEAN ######
 
@@ -110,9 +111,10 @@ plotRGB(rt23_60_interest,11,10,8,stretch="lin")
 dev.off()
 
 # let's now extract the spectrum of the average. Look carefully at this piece of script, because it is a good thing to use again.
-# I'm telling him FOR EVERY ELEMENT in the rt23 object, take the values, remove the NA's and calculate a mean. Then store every 
+# I'm telling him FOR EVERY ELEMENT in the rt23_60_interest object, take the values, remove the NA's and calculate a mean. Then store every 
 # result for every element of the object in a DEDICATED POSITION inside a vector (means_rt23...).
 
+means_rt23_60_interest <- c(1:11)
 for(i in 1:11) {
   means_rt23_60_interest[i] <- mean(getValues(rt23_60_interest[[i]]),na.rm=T)
 }
