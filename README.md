@@ -1,6 +1,6 @@
 ########## READ THIS ###########
 TO USE THE LATEX THESIS CODE, PLEASE DOWNLOAD THE NECESSARY FILES (master_thesis_(latex_files).zip) AT THE FOLLOWING LINK:
-https://drive.google.com/drive/u/0/folders/16DFcIyCleI1_7mMTmZwyYgu_xnX2jtlq
+https://drive.google.com/drive/folders/1EXbIKkHOI9dLKn1H_c6MsLGVfMZDPBQD
 THIS IS ALSO REPORTED AS FIRST LINE OF CODE.
 
 # IAPS
