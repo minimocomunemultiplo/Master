@@ -1,7 +1,18 @@
-########## READ THIS ###########
+# READ THIS
 TO USE THE LATEX THESIS CODE, PLEASE DOWNLOAD THE NECESSARY FILES (thesis.zip) AT THE FOLLOWING LINK:
 https://drive.google.com/drive/folders/1EXbIKkHOI9dLKn1H_c6MsLGVfMZDPBQD
-THIS IS ALSO REPORTED AS FIRST LINE OF CODE.
+THIS IS ALSO REPORTED AS FIRST LINE OF CODE (in masterthesis.ltx).
+
+<html>
+<body>
+
+<h1>LINK TO MASTER THESIS</h1>
+
+<p><a href="https://github.com/minimocomunemultiplo/Master/blob/main/LATEX%20Thesis%20(final%20non%20corrected).pdf">master thesis</a></p>
+
+</body>
+</html>
+
 
 # IAPS
 In this repository I will share with you my codes for IAPS institute in Rome. Part of this work will be used to develop my master thesis.
