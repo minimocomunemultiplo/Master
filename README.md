@@ -6,16 +6,25 @@ THIS IS ALSO REPORTED AS FIRST LINE OF CODE (in masterthesis.ltx).
 <html>
 <body>
 
-<h1>LINK TO MASTER THESIS</h1>
+<h1>VISUALIZE MASTER THESIS</h1>
 
-<p><a href="https://github.com/minimocomunemultiplo/Master/blob/main/LATEX%20Thesis%20(final%20non%20corrected).pdf">master thesis</a></p>
+<p><a href="https://github.com/minimocomunemultiplo/Master/blob/main/LATEX%20Thesis%20(final%20non%20corrected).pdf">Master Thesis</a></p>
 
 </body>
 </html>
 
+<html>
+<body>
+
+<h1>VISUALIZE REFERENCE FILE</h1>
+
+<p><a href="https://github.com/minimocomunemultiplo/Master/blob/main/mybib.ltx">Reference file</a></p>
+
+</body>
+</html>
 
 # IAPS
-In this repository I will share with you my codes for IAPS institute in Rome. Part of this work will be used to develop my master thesis.
+Also, in this repository I will share with you my codes for IAPS institute in Rome. Part of this work will be used to develop my master thesis.
 
 Work is in progress, so I will probably update files as I go further into studying and tinkering the techniques. I am learning R, and these should act as checkpoints of my work.
 All of the work in this repository is stored to be a recap of my thesis workflow. It's mainly a reference for me, to control my steps and gradually improve.
