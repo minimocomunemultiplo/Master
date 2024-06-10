@@ -1,17 +1,5 @@
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-```{r, echo=FALSE}
-knitr::include_graphics("COVER TESI PNG.png")
-```
-\newpage
 
 \tableofcontents
-
-\newpage
-
-\thispagestyle{empty}
 
 \vspace*{\fill}
 \begin{center}
