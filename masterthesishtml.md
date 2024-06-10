@@ -1,23 +1,3 @@
----
-title: ""
-author: ""
-date: ""
-output:
-  pdf_document:
-    latex_engine: xelatex
-header-includes:
-  - \usepackage{pdfpages}
-  - \usepackage{fontspec}
-  - \setmainfont{Times New Roman}
-  - \renewcommand{\normalsize}{\fontsize{12}{14.4}\selectfont}
-  - \usepackage[font=small,labelfont=bf]{caption}
-  - \captionsetup{font={stretch=1,small}}
-  - \usepackage{sectsty}
-  - \usepackage[normalem]{ulem}
-  - \sectionfont{\centering}
-geometry: "left=2.5cm, right=2.5cm, top=2.5cm, bottom=2.5cm"
----
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
