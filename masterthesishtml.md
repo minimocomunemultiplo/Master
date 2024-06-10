@@ -1,13 +1,5 @@
 
-\tableofcontents
-
-\vspace*{\fill}
-\begin{center}
-    \textit{To peaceful intentions only.}
-\end{center}
-\vspace*{\fill}
-
-\newpage
+\toc
 
 # Abstract
 
