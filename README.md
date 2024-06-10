@@ -16,3 +16,6 @@ Jack.
 
 More links:
 https://www.researchgate.net/profile/Giacomo-Panza-2 --> my ResearchGate profile. Here you find publications about this topic.
+
+
+https://github.com/minimocomunemultiplo/Master/blob/main/masterthesis.Rmd
