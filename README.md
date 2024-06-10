@@ -13,3 +13,6 @@ All the code is usually presented by a .pdf I upload in this repository. Please,
 
 Thanks for your understanding.
 Jack.
+
+More links:
+https://www.researchgate.net/profile/Giacomo-Panza-2 --> my ResearchGate profile. Here you find publications about this topic.
