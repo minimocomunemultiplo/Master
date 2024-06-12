@@ -13,6 +13,9 @@ THIS IS ALSO REPORTED AS FIRST LINE OF CODE (in masterthesis.ltx).
 </body>
 </html>
 
+> **Note**
+[Vignette here](https://htmlpreview.github.io/?https://github.com/ducciorocchini/imageRy/blob/main/vignette.html)
+
 <html>
 <body>
 
