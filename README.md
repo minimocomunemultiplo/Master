@@ -14,7 +14,7 @@ THIS IS ALSO REPORTED AS FIRST LINE OF CODE (in masterthesis.ltx).
 </html>
 
 > **Note**
-[Vignette here](https://htmlpreview.github.io/?https://github.com/minimocomunemultiplo/Master/blob/main/masterthesis.html)
+[Vignette here](https://htmlpreview.github.io/?https://drive.google.com/file/d/1QCJ33MiRUrHQwZZQ7F91sshMYSSGh4vw/view?usp=drive_link)
 
 <html>
 <body>
