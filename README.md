@@ -13,7 +13,7 @@ THIS IS ALSO REPORTED AS FIRST LINE OF CODE (in masterthesis.ltx).
 </body>
 </html>
 
-> **Note**
+> **html version**
 [Vignette here](https://htmlpreview.github.io/?https://drive.google.com/file/d/1QCJ33MiRUrHQwZZQ7F91sshMYSSGh4vw/view?usp=drive_link)
 
 <html>
