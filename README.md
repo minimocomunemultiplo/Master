@@ -9,7 +9,7 @@ THIS IS ALSO REPORTED AS FIRST LINE OF CODE (in masterthesis.ltx).
 <h1>VISUALIZE MASTER THESIS</h1>
 
 > **pdf version of**
-<p><a href="https://github.com/minimocomunemultiplo/Master/blob/main/Master%20Thesis.pdf">Master Thesis</a></p>
+[Master Thesis](https://github.com/minimocomunemultiplo/Master/blob/main/Master%20Thesis.pdf)
 
 </body>
 </html>
