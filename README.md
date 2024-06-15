@@ -38,5 +38,14 @@ Thanks for your understanding.
 Jack.
 
 More links:
-https://www.researchgate.net/profile/Giacomo-Panza-2 --> my ResearchGate profile. Here you find publications about this topic.
+<html>
+<body>
+
+<h1>MORE LINKS</h1>
+
+<p><a href="https://www.researchgate.net/profile/Giacomo-Panza-2">My ResearchGate</a></p>
+
+</body>
+</html>
+
 
