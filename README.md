@@ -8,7 +8,7 @@ THIS IS ALSO REPORTED AS FIRST LINE OF CODE (in masterthesis.ltx).
 
 <h1>VISUALIZE MASTER THESIS</h1>
 
-<p><a href="https://github.com/minimocomunemultiplo/Master/blob/main/LATEX%20Thesis%20(final%20non%20corrected).pdf">Master Thesis</a></p>
+<p><a href="https://github.com/minimocomunemultiplo/Master/blob/main/Master%20Thesis.pdf">Master Thesis</a></p>
 
 </body>
 </html>
